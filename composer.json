@@ -29,7 +29,7 @@
     "yoanm/symfony-jsonrpc-http-server": "Symfony Bundle to convert an HTTP json-rpc request into HTTP json-rpc response"
   },
   "require": {
-    "php": ">=7.2",
+    "php": ">=7.3",
     "yoanm/jsonrpc-server-sdk": "^3.0",
     "yoanm/jsonrpc-params-symfony-validator-sdk": "^0.2",
     "yoanm/jsonrpc-params-symfony-constraint-doc-sdk": "^0.2",
