@@ -1,5 +1,5 @@
 {
-  "name": "yoanm/symfony-jsonrpc-params-sf-constraints-doc",
+  "name": "adgoal/symfony-jsonrpc-params-sf-constraints-doc",
   "description": "Symfony bundle for easy Symfony constraints to JSON-RPC documentation transformation",
   "license": "MIT",
   "type": "library",
